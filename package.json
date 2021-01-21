@@ -11,6 +11,6 @@
   "dependencies": {
     "cli-progress": "^3.6.1",
     "image-downloader": "^3.5.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
